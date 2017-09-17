@@ -1,0 +1,18 @@
+linux commands ref : http://linuxcommand.org/lts0060.php
+open man page : http://man7.org/linux/man-pages/man2/open.2.html
+Environment variable : http://stackoverflow.com/questions/3473692/list-environment-variables-with-c-in-unix
+http://stackoverflow.com/questions/17929414/how-to-use-setenv-to-export-a-variable-in-c
+Stack Overflow webpages
+Man pages
+http://www.thegeekstuff.com/2012/03/catch-signals-sample-c-code/
+https://www.gnu.org/software/libc/manual/html_node/Signal-Handling.html
+http://tldp.org/LDP/lpg/node11.html
+https://www.gnu.org/software/libc/manual/html_node/Creating-a-Pipe.html
+
+
+
+Students:
+1. Amit Barve
+2. Shaurya Garg
+3. Siddhart
+4. Harshal Garg
